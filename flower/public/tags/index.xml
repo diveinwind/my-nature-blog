@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on personal blog of Diveinwind</title>
+    <link>https://diveinwind.github.io/my-nature-blog/tags/</link>
+    <description>Recent content in Tags on personal blog of Diveinwind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>UTF-8</language>
+    <copyright>Copyright (c) 2008 - 2014, all rights reserved.</copyright>
+    <lastBuildDate>Sun, 12 Nov 2017 17:20:43 +0800</lastBuildDate>
+    
+	<atom:link href="https://diveinwind.github.io/my-nature-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Culture</title>
+      <link>https://diveinwind.github.io/my-nature-blog/tags/culture/</link>
+      <pubDate>Sun, 12 Nov 2017 17:20:43 +0800</pubDate>
+      
+      <guid>https://diveinwind.github.io/my-nature-blog/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skill Hugo</title>
+      <link>https://diveinwind.github.io/my-nature-blog/tags/skill-hugo/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://diveinwind.github.io/my-nature-blog/tags/skill-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Though Method</title>
+      <link>https://diveinwind.github.io/my-nature-blog/tags/though-method/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diveinwind.github.io/my-nature-blog/tags/though-method/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
