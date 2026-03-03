@@ -1,0 +1,38 @@
+baseurl = "/"
+title = "personal blog of Diveinwind"
+copyright = "Copyright (c) 2008 - 2014, all rights reserved."
+languageCode = "UTF-8"
+canonifyurls = true
+paginate = 3
+theme = "hugo-dusk"
+
+googleAnalytics = ""
+disqusShortname = ""
+
+SectionPagesMenu = "main"
+
+[[menu.main]]
+  name = "Posts"
+  weight = -120
+  identifier = "post"
+  url = "/post/"
+
+[[menu.main]]
+  name = "Tags"
+  weight = -110
+  identifier = "tag"
+  url = "/tags/"
+
+[author]
+  name = "diveinwind"
+
+[params.meta]
+  keywords = "shenlan95"
+  description = "Personal blog."
+
+[params]
+  email = "diveinwind@hotmail.com"
+  github = "diveinwind/diveinwind.github.io"
+  #gitlab = "gitlab id"
+  #twitter = "twitter id"
+  #linkedin = "linkedin id"
